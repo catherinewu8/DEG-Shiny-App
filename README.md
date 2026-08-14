@@ -6,6 +6,12 @@ Check out the live webtool here! https://4acbga-catherine-wu.shinyapps.io/DGE-Ap
 
 An app developed using R Shiny to accept a file of RNAseq data to generate a heat map of gene expression as well as perform differential gene expression analysis and visualizations.
 
+### Input 
+- A .txt file of gene expression data
+
+### Output
+- A variety of data visualizations including a Heatmap, DEG table, Volcano Plot, MA Plot, and Long Gene Expression
+
 ## License
 
 This project is license under the MIT License - see the details below:
